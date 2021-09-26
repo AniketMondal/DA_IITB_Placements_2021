@@ -20,6 +20,6 @@ So, this project is not a substitution of the [official report](http://placement
 
 ## Dataset
 
-The data was taken from the IITB Placement Portal as `allocations.csv` and one ***should not use it for any kind of commertial purposes***. For potential privacy issues, the column for names of the students has been ommitted from the `csv` file.
+The data was taken from the IITB Placement Portal as `allocations.csv` and one ***should not use it for any kind of commertial purposes***. For potential **privacy** issues, the column containing names of the students has been ommitted from the `allocations.csv` file originally obtained.
 
 [Go Top :arrow_up:](#iitb-placements-2021-statistics)
